@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import '../App.css';
 
+
+
 class MainPage extends Component {
     state = {  }
     render() { 
