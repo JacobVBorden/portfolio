@@ -8,7 +8,7 @@ class MainPage extends Component {
     render() { 
         return ( 
             <div className="mainPage">
-                <h1 className="name">Jacob V Borden</h1><br/>
+                <h1 className="name">Jacob Borden</h1><br/>
                 <p className="title">Software Developer</p>
             </div>
          );
